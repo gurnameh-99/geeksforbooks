@@ -1,5 +1,3 @@
-# geeksforbooks
+# Project 1
 
-
-This is a book review site that uses goodreads api.
-It uses potgresql python html css bootstrap and flask.
+Web Programming with Python and JavaScript
